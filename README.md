@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="500" height="130" src="https://github.com/dantevangelista/data-structures-and-algorithms/blob/main/data_structs_%26_algos_logo.png">
+    <img width="500" height="130" src="https://github.com/dantevangelista/data-structures-and-algorithms/blob/main/dsa_logo.png">
 </p>
 
 ### Data Structures:
