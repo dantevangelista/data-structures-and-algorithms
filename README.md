@@ -1,4 +1,4 @@
-![]()
+![Orange Binary Tree Data Structures & Algorithms](https://github.com/dantevangelista/data-structures-and-algorithms/blob/main/data_structs_%26_algos_logo.png)
 ### Data Structures:
 ```
     Linear:
