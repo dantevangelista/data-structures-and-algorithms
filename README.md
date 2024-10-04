@@ -6,7 +6,7 @@
 ```
     Linear:
     1. Arrays
-    2. Linked Lists
+    2. Linked Lists (Singly Linked List, Doubly Linked List, Circular Linked List)
     3. Stacks (LIFO) and Queues (FIFO)
 
     Non-Linear:
