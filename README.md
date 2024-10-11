@@ -2,8 +2,8 @@
     <img width="500" height="130" src="https://github.com/dantevangelista/data-structures-and-algorithms/blob/main/dsa_logo.png">
 </p>
 
-### 🌲 Data Structures:
-```
+## 🌲 Data Structures:
+
     Linear:
     🔵 Arrays
     🔵 Linked Lists (Singly, Doubly, Circular)
@@ -23,9 +23,9 @@
     🟣 Fenwick Trees (Binary Indexed Tree)
     🟣 Disjoint Set Union (DSU)
     🟣 Minimum Spanning Trees
-```
-### ♾️ Algorithms:
-```
+
+## ♾️ Algorithms:
+
 🔴 Divide & Conquer
 
     Sorting Algorithms: 
@@ -66,7 +66,6 @@
     🟡 Dijkstra's Algorithm & Bellman-Ford Algorithm
 
 ⚪ Topological Sorting
-```
 
-### License
+## 🪪 License
 [MIT License](https://github.com/dantevangelista/data-structures-and-algorithms/blob/main/LICENSE)
