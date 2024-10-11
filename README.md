@@ -45,6 +45,7 @@
     🟡 Binary Search
     
 🟣 Sieve of Eratosthenes
+
 🔴 Knuth-Morris-Pratt Algorithm
 
     Greedy:
