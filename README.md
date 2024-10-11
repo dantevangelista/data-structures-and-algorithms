@@ -3,7 +3,7 @@
 </p>
 
 ## 🌲 Data Structures:
-
+```
     Linear:
     🔵 Arrays
     🔵 Linked Lists (Singly, Doubly, Circular)
@@ -23,9 +23,10 @@
     🟣 Fenwick Trees (Binary Indexed Tree)
     🟣 Disjoint Set Union (DSU)
     🟣 Minimum Spanning Trees
+```
 
 ## ♾️ Algorithms:
-
+```
 🔴 Divide & Conquer
 
     Sorting Algorithms: 
@@ -43,8 +44,8 @@
     🟡 Linear Search
     🟡 Binary Search
     
-⚪ Sieve of Eratosthenes
-⚪ Knuth-Morris-Pratt Algorithm
+🟣 Sieve of Eratosthenes
+🔴 Knuth-Morris-Pratt Algorithm
 
     Greedy:
     🟢 Max Number Non-Overlapping Intervals on Axis
@@ -55,7 +56,7 @@
     🟠 Longest Common Subsequence
     🟠 Longest Increasing Subsequence
 
-⚪ Convex Hull
+🔵 Convex Hull
 
     Graph Traversals: 
     🔴 Bredth-First Search (BFS)
@@ -65,7 +66,8 @@
     🟡 Floyd-Warshall/Roy-Floyd Algorithm
     🟡 Dijkstra's Algorithm & Bellman-Ford Algorithm
 
-⚪ Topological Sorting
+🟢 Topological Sorting
+```
 
 ## 🪪 License
 [MIT License](https://github.com/dantevangelista/data-structures-and-algorithms/blob/main/LICENSE)
